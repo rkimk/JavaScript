@@ -35,4 +35,7 @@
     .collapse.in{
         display:block !important;
     }
+    .dropdown-menu>li>a {
+        white-space: normal;
+    }
 }
